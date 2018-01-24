@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash 
 
 echo OctoPrint Webcam Stream: $1
 echo echo Live-stream secret: $2
